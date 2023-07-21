@@ -26,8 +26,8 @@ npm run startbuild #Build production website:
 npm run buildfunctions #Build Lambda functions:
 npm run build:functionspreview #Build production website including draft and future content:
 npm run build:preview`}),e.add({id:4,href:"/terrain-autotiler/docs/help/",title:"Help",description:"Help Doks.",content:""}),e.add({id:5,href:"/terrain-autotiler/docs/help/how-to-update/",title:"How to Update",description:"Regularly update the installed npm packages to keep your Doks website stable, usable, and secure.",content:`💡 Learn more about semantic versioning and advanced range syntax. Check for outdated packages #The npm outdated command will check the registry to see if any (or, specific) installed packages are currently outdated:
-npm outdated [[&lt;@scope&gt;/]&lt;pkg&gt; ...]Update packages #The npm update command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
-npm update [&lt;pkg&gt;...]`}),e.add({id:6,href:"/terrain-autotiler/docs/help/troubleshooting/",title:"Troubleshooting",description:"Solutions to common problems.",content:`Problems updating npm packages #Delete the ./node_modules folder, and run again:
+npm outdated [[\u0026lt;@scope\u0026gt;/]\u0026lt;pkg\u0026gt; ...]Update packages #The npm update command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
+npm update [\u0026lt;pkg\u0026gt;...]`}),e.add({id:6,href:"/terrain-autotiler/docs/help/troubleshooting/",title:"Troubleshooting",description:"Solutions to common problems.",content:`Problems updating npm packages #Delete the ./node_modules folder, and run again:
 npm installProblems with cache #Delete the temporary directories:
 npm run clean`}),e.add({id:7,href:"/terrain-autotiler/docs/help/faq/",title:"FAQ",description:"Answers to frequently asked questions.",content:`Hyas? #Doks is a Hyas theme build by the creator of Hyas.
 Footer notice? #Please keep it in place.
