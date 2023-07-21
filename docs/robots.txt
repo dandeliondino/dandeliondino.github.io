@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dandeliondino.github.io/terrain-autotiler/sitemap.xml
